@@ -1,0 +1,12 @@
+
+Human: Yvonne.
+Muse:  What is that?
+
+Human: Hey boo.
+Muse:  You want to talk about Yvonne! I love it. What´s the topic?
+
+Human: Places to study.
+Muse:  Cool make a list with more details.
+
+Human: Hey, what's up?
+Muse:  Nothing. I have no idea what we're talking about.
